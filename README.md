@@ -92,6 +92,6 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 ## 👨‍💻 Author
 Made with by **Vikash Gupta**  
-📧 Email: [vikashgupta@example.com](mailto:vikashgupta@example.com)  
+📧 Email: [vikashg802207@gmail.com](mailto:vikashg802207@gmail.com)  
 
 

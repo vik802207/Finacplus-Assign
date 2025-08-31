@@ -24,8 +24,27 @@ It consists of two separate applications:
 - **Babel**
 
 ---
-
-
+## ScreenShot
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(794).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(795).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(796).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(797).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(798).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(799).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(800).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(801).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(802).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(803).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(804).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(805).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(806).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(807).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(808).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(809).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(810).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(811).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(812).png)
+![Screenshot](https://raw.githubusercontent.com/vik802207/Finacplus-Assign/main/a/Screenshot%20(813).png)
 ---
 
 ## 📂 Project Structure

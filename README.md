@@ -7,6 +7,12 @@ It consists of two separate applications:
 2. **Music MFE (Remote)** → Provides a Music Library component exposed to the host.
 
 ---
+## 🚀 Live Demo
+
+- **Main App (Host):** [finac-plus-eight.vercel.app](https://finac-plus-eight.vercel.app/)  
+- **Music Library (Remote):** [music-lib1234.netlify.app](https://music-lib1234.netlify.app/)
+
+---
 ## ✅ Features
 
 - Microfrontend architecture with **Module Federation**

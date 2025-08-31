@@ -85,6 +85,13 @@ Then, start the main-app (host) in another terminal:
 cd main-app
 npm start
 ```
+## 📜 License
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute this project with proper attribution.  
 
+---
+
+## 👨‍💻 Author
+Made with ❤️ by **Vikash Gupta**  
+📧 Email: [vikashgupta@example.com](mailto:vikashgupta@example.com)  
 
 

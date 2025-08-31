@@ -65,7 +65,7 @@ FinacPlus/
 ## 🚀 Getting Started
 ### 1️⃣ Clone the repo & install dependencies
  ```bash
-git clone <repo-url>
+git clone https://github.com/vik802207/Finacplus-Assign
 ```
 Install dependencies for both apps:
 ```bash
@@ -91,7 +91,7 @@ This project is licensed under the **MIT License** – you are free to use, modi
 ---
 
 ## 👨‍💻 Author
-Made with ❤️ by **Vikash Gupta**  
+Made with by **Vikash Gupta**  
 📧 Email: [vikashgupta@example.com](mailto:vikashgupta@example.com)  
 
 
